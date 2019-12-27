@@ -1,6 +1,6 @@
 {
 	"name": "ngx-webstorage-lppedd",
-	"version": "99.0.2",
+	"version": "99.0.3",
 	"peerDependencies": {
 		"@angular/common": "^8.0.0",
 		"@angular/core": "^8.0.0"
